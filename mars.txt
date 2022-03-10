@@ -8,4 +8,7 @@ Let's move to Mars!
 
 How will we breathe?
 
+<<<<<<< HEAD
 Technology!
+=======
+Who knows?
