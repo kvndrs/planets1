@@ -2,14 +2,4 @@ Cold, dry, and red.
 Mars has two moons: Deimos and Phobos.
 Mars is red due to iron minerals on its surface.
 Total Recall was filmed on Mars.
-I am interested in Venus.Mars is cool
-
-Let's move to Mars!
-
-How will we breathe?
-
-<<<<<<< HEAD
-Technology!
-=======
-Who knows?
->>>>>>> 1dd2b415ebd608b4c5ef479deb8fc45f118aaec9
+I am interested in Venus.
